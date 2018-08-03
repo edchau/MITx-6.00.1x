@@ -77,6 +77,7 @@ Since these courses may be the only formal computer science courses many of the 
 • Bugs
 • Debugging
 • Debugging Examples
+
 **Lecture 8 – Assertions and Exceptions**
 • Assertions
 • Exceptions
@@ -89,6 +90,7 @@ Since these courses may be the only formal computer science courses many of the 
 • Why OOP
 • Hierarchies
 • Your Own Types
+
 **Lecture 10 – An Extended Example:**
 • Building a Class
 • Viualizing the Hierarchy
@@ -96,6 +98,7 @@ Since these courses may be the only formal computer science courses many of the 
 • Using Inherited Methods
 • Gradebook Example
 • Generators
+
 **Lecture 11 – Computational Complexity:**
 • Program Efficiency
 • Big Oh Notation
